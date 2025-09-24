@@ -1,28 +1,19 @@
-# Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-*.sqlite3
 *.db
+*.sqlite3
+*.log
 
-# Virtualenv
 venv/
 ENV/
 .env
 *.env
 
-# Logs
-*.log
-
-# IDE
 .vscode/
 .idea/
 
-# Docker
-/data/
-*.pid
-
-# System
+data/
 .DS_Store
 Thumbs.db

@@ -1,1 +1,7 @@
 aiogram==3.*
+pytesseract
+Pillow
+pdf2image
+python-dateutil
+python-dotenv
+requests
